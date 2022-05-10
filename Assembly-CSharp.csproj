@@ -54,6 +54,16 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\PracticeOnEnums.cs" />
+    <Compile Include="Assets\Abstract\FullTimeEmployee.cs" />
+    <Compile Include="Assets\Abstract\Enemy.cs" />
+    <Compile Include="Assets\Dictionary\MyPlayers.cs" />
+    <Compile Include="Assets\Abstract\Employee.cs" />
+    <Compile Include="Assets\Abstract\MyInterfaceDemo.cs" />
+    <Compile Include="Assets\Dictionary\Item.cs" />
+    <Compile Include="Assets\Dictionary\Player.cs" />
+    <Compile Include="Assets\Abstract\PartTimeEmployee.cs" />
+    <Compile Include="Assets\Dictionary\MyPlayerNameAndAge.cs" />
+    <Compile Include="Assets\Dictionary\ItemDB.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
