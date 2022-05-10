@@ -53,23 +53,29 @@
     <UnityVersion>2020.3.26f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\PracticeOnEnums.cs" />
-    <Compile Include="Assets\Abstract\FullTimeEmployee.cs" />
-    <Compile Include="Assets\Abstract\Enemy.cs" />
-    <Compile Include="Assets\Dictionary\MyPlayers.cs" />
-    <Compile Include="Assets\Abstract\Employee.cs" />
-    <Compile Include="Assets\Abstract\MyInterfaceDemo.cs" />
     <Compile Include="Assets\Dictionary\Item.cs" />
-    <Compile Include="Assets\Dictionary\Player.cs" />
-    <Compile Include="Assets\Abstract\PartTimeEmployee.cs" />
-    <Compile Include="Assets\Dictionary\MyPlayerNameAndAge.cs" />
+    <Compile Include="Assets\ChangingCubePosition.cs" />
     <Compile Include="Assets\Dictionary\ItemDB.cs" />
-    <Compile Include="Assets\DelegateDemo.cs" />
+    <Compile Include="Assets\Dictionary\MyPlayers.cs" />
+    <Compile Include="Assets\Dictionary\Player.cs" />
+    <Compile Include="Assets\PracticeOnEnums.cs" />
+    <Compile Include="Assets\MainScriptOfDE.cs" />
+    <Compile Include="Assets\Dictionary\MyPlayerNameAndAge.cs" />
     <Compile Include="Assets\ChangeCubeColorUsingDE.cs" />
+    <Compile Include="Assets\Abstract\Enemy.cs" />
+    <Compile Include="Assets\Abstract\PartTimeEmployee.cs" />
+    <Compile Include="Assets\Abstract\FullTimeEmployee.cs" />
     <Compile Include="Assets\CubeScript.cs" />
     <Compile Include="Assets\SphereScript.cs" />
-    <Compile Include="Assets\ChangingCubePosition.cs" />
-    <Compile Include="Assets\MainScriptOfDE.cs" />
+    <Compile Include="Assets\DelegateDemo.cs" />
+    <Compile Include="Assets\Abstract\Employee.cs" />
+    <Compile Include="Assets\Abstract\MyInterfaceDemo.cs" />
+    <Compile Include="Assets\Assignment_C_Sharp\Assignment_C_Sharp\Class1.cs" />
+    <Compile Include="Assets\Assignment_C_Sharp\Assignment_C_Sharp\Properties\AssemblyInfo.cs" />
+    <Compile Include="Assets\Assignment_C_Sharp\Assignment_C_Sharp\Program.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Assignment_C_Sharp\Assignment_C_Sharp\obj\Debug\Assignment_C_Sharp.csproj.FileListAbsolute.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
