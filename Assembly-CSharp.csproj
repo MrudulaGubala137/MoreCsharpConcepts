@@ -64,6 +64,12 @@
     <Compile Include="Assets\Abstract\PartTimeEmployee.cs" />
     <Compile Include="Assets\Dictionary\MyPlayerNameAndAge.cs" />
     <Compile Include="Assets\Dictionary\ItemDB.cs" />
+    <Compile Include="Assets\DelegateDemo.cs" />
+    <Compile Include="Assets\ChangeCubeColorUsingDE.cs" />
+    <Compile Include="Assets\CubeScript.cs" />
+    <Compile Include="Assets\SphereScript.cs" />
+    <Compile Include="Assets\ChangingCubePosition.cs" />
+    <Compile Include="Assets\MainScriptOfDE.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
